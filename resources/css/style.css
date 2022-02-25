@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    font-weight: normal;
+    color: grey;
+}
+
+#downloadLink {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aquamarine;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+#video {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+#phone {
+    padding-top: 20px;
+}
+
+#foot {
+    text-align: right;
+    padding-right: 20px;
+}
+
